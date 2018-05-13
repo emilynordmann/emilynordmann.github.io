@@ -1,0 +1,26 @@
+name: "emilynordmann.github.io"  
+author: "Emily Nordmann"  
+output_dir: "."  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    css: style.css
+navbar:  
+  title: "Dr. Emily Nordmann" 
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Teaching"
+      icon: ion-ios-people
+      href: Teaching.html
+    - text: "Research"
+      href: Research.html
+      icon: ion-ios-lightbulb
+    - text: "Blog"
+      icon: ion-social-rss
+      href: http://talesfromtheteachingtrack.blogspot.co.uk/ 
+    - text: "CV"
+      href: "cv.pdf"
+      icon: ion-document-text

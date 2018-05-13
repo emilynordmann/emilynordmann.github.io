@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Teaching</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Dr. Emily Nordmann</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="Teaching.html">
+    <span class="ion ion-ios-people"></span>
+     
+    Teaching
+  </a>
+</li>
+<li>
+  <a href="Research.html">
+    <span class="ion ion-ios-lightbulb"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="http://talesfromtheteachingtrack.blogspot.co.uk/">
+    <span class="ion ion-social-rss"></span>
+     
+    Blog
+  </a>
+</li>
+<li>
+  <a href="cv.pdf">
+    <span class="ion ion-document-text"></span>
+     
+    CV
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Teaching</h1>
+
+</div>
+
+
+<p><br></p>
+<div id="teaching-philosophy" class="section level3">
+<h3>Teaching philosophy</h3>
+<p>My Professional Values Statement for my Fellowship of the Higher Education Academy application stated that “My philosophy of teaching is based around building transparency, dialogue, and agency into all of my teaching practices”. When I’m not trying to get professional accreditation I’d say that my approach to teaching is that it has to be a two-way process and that you are a better and more effective teacher when you listen to what your students are telling you, whether that be explicitly through their feedback, or implicitly through how they perform and how they interact with you. <br> <br></p>
+</div>
+<div id="teaching-experience" class="section level3">
+<h3>Teaching experience</h3>
+<p>I lecture on cognitive psychology and research methods at first year, on our Advanced Topics in Language course alongside <a href="https://www.abdn.ac.uk/psychology/people/profiles/a.cleland">Dr. Sandie Cleland</a>, and about Science and Social Media for one of our interdisciplinary Sixth Century courses. I do small-group teaching at level 2 (research method practicals, tutorials covering all theory course topics), level 3 (SPSS workshops and memory and language tutorials), level 4 (critical reviews), MSc (memory and language tutorials) and MRes (intro to R, teaching in Higher Education). I supervise 6-8 final year undergraduate students and 1-2 MSc students each year who tend to do projects on language or LGBTQ topics. <br> <br></p>
+</div>
+<div id="open-science-and-r" class="section level3">
+<h3>Open science and R</h3>
+<p>In the last couple of years I have tried to incorporate open science into my teaching where possible. I talk about the replication crisis in my level 1 methodology lectures and I have been experimenting with pre-registration in my level 2 practical classes. On the basis of this pilot I am working to introduce pre-registration into our sub-honours courses. I am also part of the team that converted our MRes statistics teaching from SPSS to R and as a consequence there is a strong focus on reproducibility. I am now looking at ways to introduce R for our undergraduate students. <img src="images/pal.png" class="img1"> <br> <br></p>
+</div>
+<div id="peer-assisted-learning" class="section level3">
+<h3>Peer-assisted learning</h3>
+<p>I am the coordinator of a peer-assisted learning (PAL) scheme that runs in the School of Psychology. Our PAL is a little different to a lot of other institutions in that it doesn’t just run in first year, there are PAL sessions for our level 1,2,3 and MSc students. I believe that this structure is hugely beneficial as it recognises that each level of study comes with its own transition issues - not just first year. You can find more information about PAL <a href="https://www.abdn.ac.uk/psychology/undergraduate/supportive-learning-375.php">here</a>. <br> <br></p>
+</div>
+<div id="teaching-and-technology" class="section level3">
+<h3>Teaching and technology</h3>
+<p>I generally have <a href="https://www.youtube.com/watch?v=Ri8EOJBu5Fk">techno-joy</a> and like to play around with using technology in my teaching, for example, implementing retrieval practice during lectures with <a href="http://www.ombea.com/gb">Ombea</a> or using social media to help support student transitions into higher education. My main focus in this area has settled on the use of lecture capture technology and how it impacts attendance and peformance. The short version of my opinion on this matter is that I am all for it, there’s no systematic evidence it impacts attendance and it may well provide pedagogic benefits. If you’d like the long version of my opinion see <a href="https://psyarxiv.com/ux29v">here</a>. <br> <br></p>
+<p><img src="images/guide.JPG" class="img4"></p>
+</div>
+<div id="online-professionalism-and-employability" class="section level3">
+<h3>Online professionalism and employability</h3>
+<p>Given my use of social media for teaching purposes I was awarded funding in 2016 from the <a href="https://www.abdn.ac.uk/staffnet/teaching/learning-and-teaching-enhancement-programme-4037.php">Learning and Teaching Enhancement Programme</a> at the University of Aberdeen to develop guidance to support students to use social media to boost their employability. This project was conducted with Gabi Lipan, who is now my PhD student and the guide we produced is freely available <a href="http://www.abdn.ac.uk/careers/resources/documents/5665.pdf">here</a>. <br> <br></p>
+</div>
+<div id="internal-student-transitions" class="section level3">
+<h3>Internal student transitions</h3>
+<p>In 2017 I was awarded further LTEP funding to investigate internal student transitions (e.g., moving from 2nd to 3rd year) with current undergraduate student Aletta Boerkoel. This project uses mixed-methods and aims to create resources that will help support students as they enter the next level of study by providing advice from their peers who have gone through the same process. These resources will be available in September 2018. <br> <br></p>
+</div>
+<div id="awards" class="section level3">
+<h3>Awards</h3>
+<ul>
+<li>LGBTQ+ Staff Role Model, Aberdeen University LGBTQ+ Student Forum (2018)</li>
+<li>Best Lecturer, Aberdeen University Students’ Association Student-Led Teaching Awards (2017)</li>
+<li>LGBTQ+ Staff Role Model, Aberdeen University LGBTQ+ Student Forum (2017)</li>
+<li>University of Aberdeen College of Life Sciences and Medicine Excellence in Teaching Award (2015)</li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

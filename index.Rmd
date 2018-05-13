@@ -1,0 +1,17 @@
+---
+title: "Home"
+---
+
+  
+<img src="images/me_2018.jpg" class="img1">  
+  
+I am a teaching-focused Lecturer in the [School of Psychology](https://www.abdn.ac.uk/psychology/) at the University of Aberdeen. I lecture on cognitive psychology, psycholinguistics, and research methods as well as doing a variety of small-group classes including Intro to R for our MRes programme. I strongly believe in the principles of Open Science and I try to incorporate them whenever possible into my teaching and my research.
+
+My research is split between two fields, psycholinguistics, where I study non-literal language such as idioms and swearing, and pedagogical research where I am interested in the relationship between technology and learning. You can read more about my [teaching](Teaching.html) and [research](Research.html) by clicking on the links. Finally, I am also co-chair of the [LGBT+ Staff & Postgraduate Student Network](https://www.facebook.com/LGBT.UoA/) where I work to promote equality and diversity through policy and practice. 
+
+
+###Contact me
+
+My e-mail address is emily.nordmann@abdn.ac.uk. You can also catch me on [Twitter](https://twitter.com/emilynordmann) where you can find me talking about teaching, lecture capture, open science, #rstats, swearing, LGBTQ issues and, occasionally, drag queens and videogames. 
+
+If you need to see me in person I can be found in G14 of the [William Guild Building](https://www.google.co.uk/maps/place/William+Guild+Building,+Aberdeen/@57.165965,-2.1035662,16z/data=!4m5!3m4!1s0x48840e0efdd1b991:0x7427840cc273cd73!8m2!3d57.1659635!4d-2.0991881), Old Aberdeen or you can speak to me on the phone on +44(0)1224 273646.
