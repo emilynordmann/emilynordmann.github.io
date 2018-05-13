@@ -1,4 +1,4 @@
-.img1 {
+img {
   
 	float: right;
   
@@ -14,54 +14,9 @@
 
 
 
-.img2 {
-  
-	float: left;
-  
-	width: 250px;
-  
-	height: 250px;
-  
-	display: block;
-  
-	margin: 0 10px;
-
-}
-
-
-
-.img3 {
-  
-	width: 250px;
-  
-	height: 250px;
-  
-	display: block;
-  
-	margin-left: auto;
-  
-	margin-right: auto
-
-}
-
-
-
-.img4 {
-  
-	float: right;
-  
-	width: 200px;
-  
-	height: 280px;
-  
-	display: block;
-  
-	margin: 0 10px;
-
-}
 
 @media screen and (max-width:600px) {
-  .img1 {
+  img {
   
 	width: 150px;
   
@@ -73,5 +28,5 @@
   
 	margin-right: auto
 
-}
+	}
 }
