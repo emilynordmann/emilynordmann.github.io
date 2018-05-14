@@ -27,11 +27,10 @@ consequence there is a strong focus on reproducibility. I am now looking at ways
 undergraduate students. 
 <br>
 <br>
+<img src="images/pal.png" class="img1">
 
 ###Peer-assisted learning
 I am the coordinator of a peer-assisted learning (PAL) scheme that runs in the School of Psychology. Our PAL is a little different to a lot of other institutions in that it doesn't just run in first year, there are PAL sessions for our level 1,2,3 and MSc students. I believe that this structure is hugely beneficial as it recognises that each level of study comes with its own transition issues - not just first year. You can find more information about PAL [here](https://www.abdn.ac.uk/psychology/undergraduate/supportive-learning-375.php).
-
-<img src="images/pal.png" class="img1">
 <br>
 <br>
 
@@ -41,10 +40,10 @@ My main focus in this area has settled on the use of lecture capture technology 
 <br>
 <br>
 
+<img src="images/guide.jpg" class="img4">
+
 ###Online professionalism and employability
 Given my use of social media for teaching purposes I was awarded funding in 2016 from the [Learning and Teaching Enhancement Programme](https://www.abdn.ac.uk/staffnet/teaching/learning-and-teaching-enhancement-programme-4037.php) at the University of Aberdeen to develop guidance to support students to use social media to boost their employability. This project was conducted with Gabi Lipan, who is now my PhD student and the guide we produced is freely available [here](http://www.abdn.ac.uk/careers/resources/documents/5665.pdf). 
-
-<img src="images/guide.jpg" class="img4">
 <br>
 <br>
 
