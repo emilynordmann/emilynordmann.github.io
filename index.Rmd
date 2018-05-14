@@ -3,9 +3,9 @@ title: "Home"
 ---
 
   
-<img src="images/me_2018.jpg" class="img1">  
-  
 I am a teaching-focused Lecturer in the [School of Psychology](https://www.abdn.ac.uk/psychology/) at the University of Aberdeen. I lecture on cognitive psychology, psycholinguistics, and research methods as well as doing a variety of small-group classes including Intro to R for our MRes programme. I strongly believe in the principles of Open Science and I try to incorporate them whenever possible into my teaching and my research.
+
+<img src="images/me_2018.jpg" class="img1">  
 
 My research is split between two fields, psycholinguistics, where I study non-literal language such as idioms and swearing, and pedagogical research where I am interested in the relationship between technology and learning. You can read more about my [teaching](Teaching.html) and [research](Research.html) by clicking on the links. Finally, I am also co-chair of the [LGBT+ Staff & Postgraduate Student Network](https://www.facebook.com/LGBT.UoA/) where I work to promote equality and diversity through policy and practice. 
 
