@@ -20,10 +20,10 @@ Recently, we have published a review paper in which we provide an overview of le
 
 ###Related work  
 
-Nordmann, E., & Mcgeorge, P. (2018). Lecture capture in higher education: time to learn from the learners. doi.org.10.17605/OSF.IO/UX29V Preprint available at [psyarxiv.com/ux29v](psyarxiv.com/ux29v).
+Nordmann, E., & Mcgeorge, P. (2018). Lecture capture in higher education: time to learn from the learners. Preprint available at [psyarxiv.com/ux29v](psyarxiv.com/ux29v).
 <br>
 
-Nordmann, E., Calder, C., Bishop, P., Irwin, A., & Comber, D. (2017). Turn up, tune in, don’t drop out: The relationship between lecture attendance, use of lecture recordings, and achievement at different levels of study.doi.org/10.17605/OSF.IO/FD3YJ.Preprint available at [https://psyarxiv.com/fd3yj/](https://psyarxiv.com/fd3yj/).
+Nordmann, E., Calder, C., Bishop, P., Irwin, A., & Comber, D. (2017). Turn up, tune in, don’t drop out: The relationship between lecture attendance, use of lecture recordings, and achievement at different levels of study. Preprint available at [https://psyarxiv.com/fd3yj/](https://psyarxiv.com/fd3yj/).
 <br>
 <br>
 
@@ -35,7 +35,7 @@ Recently I have become interested in swearing, which I'd argue is a special case
 
 ###Related work  
 
-Westrop, S., Nordmann, E., Bruce, G., & Scott, G. G. (2018). F.c.book: Swearing impacts impression formation on social media. http://doi.org/10.17605/OSF.IO/WVCSA Preprint available at [https://psyarxiv.com/wvcsa/](https://psyarxiv.com/wvcsa/).
+Westrop, S., Nordmann, E., Bruce, G., & Scott, G. G. (2018). F.c.book: Swearing impacts impression formation on social media. Preprint available at [https://psyarxiv.com/wvcsa/](https://psyarxiv.com/wvcsa/).
 <br>
 
 Nordmann, E., & Jambazova, A. A. (2017). Normative data for idiomatic expressions. *Behavior research methods, 49*(1), 198-215. Available [here](https://link.springer.com/article/10.3758/s13428-016-0705-5)
