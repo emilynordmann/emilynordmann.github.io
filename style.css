@@ -18,6 +18,8 @@ img {
 @media screen and (max-width:600px) {
   img {
   
+	float: none;
+ 
 	width: 150px;
   
 	height: 150px;
