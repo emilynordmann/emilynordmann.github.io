@@ -10,7 +10,7 @@ I am a teaching-focused Lecturer in the [School of Psychology](https://www.gla.a
 My research is split between two fields, psycholinguistics, where I study non-literal language such as idioms and swearing, and pedagogical research where I am interested in the relationship between technology and learning, in particular, lecture capture. You can read more about my [teaching](Teaching.html) and [research](Research.html) by clicking on the links.  
 
 
-###Contact me
+### Contact me
 
 My e-mail address is emily.nordmann@glasgow.ac.uk. You can also catch me on [Twitter](https://twitter.com/emilynordmann) where you can find me talking about teaching, lecture capture, open science, #rstats, swearing, LGBTQ issues and, occasionally, drag queens and videogames. 
 

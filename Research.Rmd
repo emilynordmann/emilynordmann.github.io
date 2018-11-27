@@ -13,12 +13,12 @@ My full list of publications is available on [Google Scholar](https://scholar.go
 <br>
 <br>
 
-##Lecture capture
+## Lecture capture
 My research investigates the impact of using lecture capture for students in higher education. In previous empirical work we have replicated the finding that there appears to be no relationship between the use of lecture capture and attendance, an issue that is often of concern to academics. More importantly, we also find that the use of lecture capture can have a positive relationship with academic performance (although this depends upon a number of factors such as the year of study and whether the student is weak or strong academically).  
 
 Recently, we have published a review paper in which we provide an overview of lecture capture policies that are becoming increasingly common in UK HEIs and we argue that the research into lecture capture needs to move from the binary question of whether it is good or bad, to how it can be used most effectively. I now aim to work on research that will inform how to design appropriate interventions and support materials for our students. If you would like to discuss potential collaborations please get in touch!  
 
-###Related work  
+### Related work  
 
 Nordmann, E., & Mcgeorge, P. (2018). Lecture capture in higher education: time to learn from the learners. Preprint available at [psyarxiv.com/ux29v](psyarxiv.com/ux29v).
 <br>
@@ -27,13 +27,13 @@ Nordmann, E., Calder, C., Bishop, P., Irwin, A., & Comber, D. (in press). Turn u
 <br>
 <br> 
 
-##Non-literal language  
+## Non-literal language  
 
 My PhD looked at idiom prooduction in light of existing models of word production by inducing tip-of-the-tongue states for idiomatic expressions. Since then I have focused on how we percieve idiomatic expressions (such as whether we think a phrase has a permissible literal intepretation, e.g., can you be literally be *under the weather*?), the influence of familiarity with an idiom on these decisions, and how reliable normative data for idiomatic expressions can be as a consequence. 
 
 Recently I have become interested in swearing, which I'd argue is a special case of non-literal language. I'm interested in the impact that swearing has on impression formation (why do we think people who swear might have a reduced vocabulary or are generally a bit stupid?) and whether this has any basis in reality (do people who swear more actually have a reduced vocabulary or score lower in other cognitive measures of intelligence?). Finally, I'm also interested in whether swear words display evidence of sound symbolism, do some words just sound "bad" and is this the case across different languages?   
 
-###Related work  
+### Related work  
 
 Westrop, S., Nordmann, E., Bruce, G., & Scott, G. G. (2018). F.c.book: Swearing impacts impression formation on social media. Preprint available at [https://psyarxiv.com/wvcsa/](https://psyarxiv.com/wvcsa/).
 <br>
@@ -45,17 +45,17 @@ Nordmann, E., Cleland, A. A., & Bull, R. (2014). Familiarity breeds dissent: Rel
 <br>
 <br>
 
-##Other research
+## Other research
 I have various smaller projects that are not part of my core research that I normally run as student projects. I am currently writing up a paper that looks at the scales used to measure attitudes towards trans people and one of my student projects this year used mixed methods to look at the media representation of sexual orientation and gender identity.
 I also have a number of pedagogical-related projects where I try to use evidence to inform my practice. For example, whether or not students should use laptops in lectures, what factors influence how successful student transitions (in to, during, and out of higher education) are, and graduate attributes and employability.  
 <br>
 
-##PhD Students
+## PhD Students
 [Gabi Lipan](https://www.abdn.ac.uk/psychology/people/profiles/r01gil17/) (1st supervisor): Mind the Gap: An investigation into factors influencing student, academic and employer expectations and perceptions of graduate attributes. ESRC and Skills Development Scotland Collaborative Studentship.
 
 [Jennifer Mattschey](https://www.abdn.ac.uk/psychology/people/profiles/r02jm15/) (2nd supervisor): Bilingualism and executive function.
 <br>
 <br>
 
-##Key collaborators
+## Key collaborators
 Amongst many other fine people, I work with [Dr. Sandie Cleland](https://www.abdn.ac.uk/psychology/people/profiles/a.cleland) on language-related projects, [Dr. Graham Scott](https://research-portal.uws.ac.uk/en/persons/graham-scott) on impression formation and social media-related projects, and [Dr. Amy Irwin](https://www.abdn.ac.uk/psychology/people/profiles/a.irwin) on employability and pedagogical projects.
