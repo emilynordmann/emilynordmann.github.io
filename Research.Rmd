@@ -9,6 +9,7 @@ output:
       collapsed: false
 ---
 <br>
+
 My full list of publications is available on [Google Scholar](https://scholar.google.co.uk/citations?user=-7Y95XAAAAAJ&hl=en) and all data, code, and pre-prints are availble on the [Open Science Framework](https://osf.io/8u3if/). I am the lead organiser of Pedegogical Lab, an inter-discplinary group that aims to bring together researchers from across the University of Aberdeen who are interested in pedagogical research. Slides and resources presented at Pedagogical Lab meetings  are available [here](https://osf.io/u59d6/wiki/Previous%20Talks/).
 <br>
 <br>
