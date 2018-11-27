@@ -30,7 +30,7 @@ In the last few years I  tried to incorporate open science into my teaching wher
 
 
 ###Teaching and technology
-I generally have [techno-joy](https://www.youtube.com/watch?v=Ri8EOJBu5Fk) and like to play around with using technology in my teaching, for example, implementing retrieval practice during lectures with [Ombea](http://www.ombea.com/gb) or using social media to help support student transitions into higher education.
+I generally have [techno-joy](https://www.youtube.com/watch?v=Ri8EOJBu5Fk) and like to play around with using technology in my teaching, for example, implementing retrieval practice during lectures with [Ombea](http://www.ombea.com/gb) or using social media to help support student transitions into higher education.  
 My main focus in this area has settled on the use of lecture capture technology and how it impacts attendance and peformance. The short version of my opinion on this matter is that I am all for it, there's no systematic evidence it impacts attendance and it may well provide pedagogic benefits. If you'd like the long version of my opinion see [here](https://psyarxiv.com/ux29v).
 <br>
 <br>

@@ -3,11 +3,11 @@ title: "Home"
 ---
 
   
-I am a teaching-focused Lecturer in the [School of Psychology](https://www.gla.ac.uk/schools/psychology/) at the University of Glasgow. I teach research methods, individual differences and #rstats. I strongly believe in the principles of open science and I try to incorporate them whenever possible into my teaching and my research.
+I am a teaching-focused Lecturer in the [School of Psychology](https://www.gla.ac.uk/schools/psychology/) at the University of Glasgow, where I joined in November 2018. I teach research methods, individual differences and #rstats. I strongly believe in the principles of open science and I try to incorporate them whenever possible into my teaching and my research.
 
 <img src="images/me_2018.jpg" class="img1">  
 
-My research is split between two fields, psycholinguistics, where I study non-literal language such as idioms and swearing, and pedagogical research where I am interested in the relationship between technology and learning, in particular, lecture capture. You can read more about my [teaching](Teaching.html) and [research](Research.html) by clicking on the links. 
+My research is split between two fields, psycholinguistics, where I study non-literal language such as idioms and swearing, and pedagogical research where I am interested in the relationship between technology and learning, in particular, lecture capture. You can read more about my [teaching](Teaching.html) and [research](Research.html) by clicking on the links.  
 
 
 ###Contact me
