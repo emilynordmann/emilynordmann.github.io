@@ -1,9 +1,11 @@
 ---
-title: "Blog"
+title: "List of blog posts"
 output:
   html_document
 ---
 
-## List of blog posts  
+  
   
 * [Game of Thrones `rtweet` tutorial (2019-04-09)](GoT.html)
+
+Please note my original blog was at [http://talesfromtheteachingtrack.blogspot.com/](http://talesfromtheteachingtrack.blogspot.com/), I am slowly migrating everything to Markdown. 
