@@ -1,8 +1,9 @@
 ---
 title: "Blog"
 output:
-  html_document:
-    self_contained: no
+  html_document
 ---
 
+## List of blog posts  
+  
 * [Game of Thrones `rtweet` tutorial (2019-04-09)](GoT.html)

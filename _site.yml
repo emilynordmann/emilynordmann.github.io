@@ -20,7 +20,7 @@ navbar:
       icon: ion-ios-lightbulb
     - text: "Blog"
       href: blog.html
-      icon: ion-ios-list-box
+      icon: ion-ios-bookmark
     - text: "CV"
       href: "cv.pdf"
       icon: ion-document-text
