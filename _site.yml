@@ -19,8 +19,8 @@ navbar:
       href: Research.html
       icon: ion-ios-lightbulb
     - text: "Blog"
-      icon: ion-social-rss
-      href: http://talesfromtheteachingtrack.blogspot.co.uk/ 
+      href: blog.html
+      icon: ion-ios-list-box
     - text: "CV"
       href: "cv.pdf"
       icon: ion-document-text
