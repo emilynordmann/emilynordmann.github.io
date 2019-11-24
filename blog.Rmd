@@ -5,7 +5,7 @@ output:
 ---
 
   
-  
+* [Sweary Sunday (2019-11-41)](swearing_blog.html)
 * [Game of Thrones `rtweet` tutorial (2019-04-09)](GoT.html)
 
 Please note my original blog was at [http://talesfromtheteachingtrack.blogspot.com/](http://talesfromtheteachingtrack.blogspot.com/), I am slowly migrating everything to Markdown. 
