@@ -4,7 +4,8 @@ output:
   html_document
 ---
 
-  
+
+* [A socially progressive case for lecture capture (2020-01-30)](lec_rec_keynote.html)  
 * [Sweary Sunday (2019-11-41)](swearing_blog.html)
 * [Game of Thrones `rtweet` tutorial (2019-04-09)](GoT.html)
 
