@@ -1850,6 +1850,7 @@ dat_means %&gt;%
 <pre class="r"><code>t.test(formula = anxiety_mean ~ mature, data = dat_means)</code></pre>
 <p>Instead, we must tell R which data to select. There are a couple of different ways you can do this, but I find using tidyverse functions and the pipes easiest.</p>
 <p>You can read the below as “take the data in dat_means, then just select conditions 1 and 2 from the mature group, then run a t-test that compares these two groups”. In this case, the p-value is .09 so there is no statistically significant difference between mature and traditional student’s reported anxiety.</p>
+<p>To be completely honest, I am not entirely sure what the <code>data = .</code> argument means, I think it’s something to do with using the pipes. What I know for sure is that this work won’t unless you specify this argument so make sure it’s in there.</p>
 <pre class="r"><code>dat_means %&gt;%
   filter(mature %in% c(1,2)) %&gt;%
   t.test(formula = anxiety_mean ~ mature, data = .)</code></pre>
