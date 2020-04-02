@@ -1,0 +1,25 @@
+---
+title: "round-icymi"
+output: html_document
+---
+
+1. 62 year old former US Marine George Hood set the record for the longest male abdominal plank at eight hours, 15 minutes and 15 seconds.  The question is: how did he celebrate his win?
+a) By somersaulting from the stage  
+b) By playing Air Guitar to the Rocky theme tune  
+c) By performing 75 press-ups  
+d) By taking an ice bath  
+
+2. A team of astronomers has found what it says is the best evidence yet for an elusive class of:
+a) Asteroid
+b) Black hole
+c) Nebula
+d) Dwarf planet
+
+3. Which song got the number 1 spot in the UK charts on Sunday?  
+
+4. Which sporting event has been cancelled this year for the first time since World War II?  
+
+5. A Hampshire man has been named as the world’s oldest by Guinness World Records after turning how old this week?   
+
+
+

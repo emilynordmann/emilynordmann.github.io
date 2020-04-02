@@ -1,0 +1,22 @@
+---
+title: "round-psych"
+output: html_document
+---
+
+1. According to Haggenbloom et al. (2016), which psychologist is most frequently cited in introductory psychology textbooks? 
+
+2. In what year did the BPS formally sign a Memorandum of Understanding against conversion therapy (i.e., a “cure”) for LGBT people? 
+a) 2000  
+b) 2010  
+c) 2013  
+d) 2017    
+
+3. Which psychologist won the Nobel prize for economics in 2002? 
+
+4. Which psychologist links OJ Simpson, Ted Bundy, and Harvey Weinstein?   
+
+5. According to Furnham and Hughes (2014), which psychological myth was believed to be “definitely true” by the largest proportion of their participants? 
+a) All people with bipolar disorder experience both depressed and manic episodes 
+b) Switching among different types of alcohol is more likely to lead to drunkenness than sticking to one type of alcohol 
+c) Punishment is a highly effective means of changing long-term behaviour 
+d) Rates of depression in women increase dramatically during the postpartum period

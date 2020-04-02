@@ -1,0 +1,11 @@
+---
+title: "round-picture"
+author: "Emily Nordmann"
+date: "02/04/2020"
+output: html_document
+---
+
+```{r}
+knitr::include_graphics("images/celebs.jpg")  
+```
+
